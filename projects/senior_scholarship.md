@@ -5,7 +5,21 @@
 <br>
 
 ### Project Description
-Project desc.
+To treat brain tumours, radiologists observe MRI scans to determine their location in a 
+process called segmentation. Manual methods can be time-consuming and prone to 
+human error. There is therefore motivation to automate this process using machine 
+learning.
+
+When I was building software for brain tumour segmentation using clustering algorithms, I noticed a few key issues. First, my clustering algorithms were quite inaccurate. Whilst researching, I repeatedly came across papers using neural networks to achieve better performance. This was something I really wanted to try.  
+
+Furthermore, when I was interviewing a doctor for my project, he asked how my model 
+would adapt to hospitals with different scanner types. I did not have any measures in 
+place to tackle this, and I was unsettled by how dangerous that was. 
+ 
+Given I had limited time with my CS coursework, the senior scholarship was a great 
+opportunity for me to address my dissatisfaction and take on these two problems. I 
+contacted a professor at the Computer Intelligence Lab at Rowan University who agreed 
+to mentor me and provide computing resources for this project. 
 
 <br>
 

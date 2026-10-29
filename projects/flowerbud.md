@@ -5,7 +5,7 @@
 <br>
 
 ### Project Description
-Project desc.
+I led a team of 3 people to develop an Android app using Kotlin that helps people take care of their plants. It included features like watering reminders, a journal section, and a quiz to determine what kind of plant you are most suited for.
 
 <br>
 

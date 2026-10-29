@@ -1,11 +1,11 @@
 [← Back to Home page](../index.md)
 
-# UpLift
+# Uplift
 
 <br>
 
 ### Project Description
-Project desc.
+Parkinson’s Disease is the fastest growing neurological disorder in terms of prevalence, death and disability. Currently affecting 10 million globally, this number is projected to reach 20 million by 2050, which emphasises the need to provide care to those suffering from this illness. Patients often struggle with rigid medication schedules and communicating symptoms with clinicians to receive tailored treatment. Our app, Uplift, provides an all-in-one solution including medication reminders, a journal and educational articles. Additionally, given that traditional clinical reviews can be subjective, our app gives clinicians a second opinion by employing AI-driven audio analysis to assess disease severity.
 
 <br>
 

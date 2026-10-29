@@ -5,7 +5,7 @@
 <br>
 
 ### Project Description
-Project desc.
+I was a member of a two-member team that created Morpho. This is a sustainable wallpaper that can morph into any image the consumer desires, uploaded through an app on their device. It provdes a more convenient, flexible and adept way for individuals to decorate their home.
 
 <br>
 

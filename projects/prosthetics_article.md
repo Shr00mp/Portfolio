@@ -5,7 +5,7 @@
 <br>
 
 ### Project Description
-Project desc.
+I have always been interested in prosthetics and wanted to explore how haptics could be implemented into them. This article also gave the change to work with some graphic design.
 
 <br>
 

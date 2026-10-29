@@ -15,8 +15,7 @@ Hi! I'm Sharon, a senior at St Paul's Girls' School. I'm a huge Computer Science
 
 <br>
 
-### Neural Networks for Brain Tumour Segmentation with Domain Adaptation
-Project desc.  
+### Neural Networks for Brain Tumour Segmentation with Domain Adaptation 
 [Learn more →](projects/senior_scholarship.html)
 
 <br>
@@ -26,8 +25,6 @@ Project desc.
 <br>
 
 ### Machine Learning Models to detect Parkinson's Disease from Voice Reconrdings
-Project desc.  
-
 Sadly this project cannot currently be made public. Stay tuned for when it does! 
 
 <br>
@@ -36,8 +33,7 @@ Sadly this project cannot currently be made public. Stay tuned for when it does!
 
 <br>
 
-### Remotely-Controllable Bionic Hand
-Project desc.  
+### Remotely-Controllable Bionic Hand  
 [Learn more →](projects/bionic_hand.html)
 
 <br>
@@ -46,7 +42,7 @@ Project desc.
 
 <br>
 
-### Morpho 
+### Morpho: Colour-changing wallpaper
 Project desc.  
 [Learn more →](projects/teentech.html)
 
@@ -56,7 +52,7 @@ Project desc.
 
 <br>
 
-### UpLift
+### Uplift: An app to help those with Parkinson's Disease
 Project desc.  
 [Learn more →](projects/technovation.html)
 
@@ -76,7 +72,7 @@ Project desc.
 
 <br>
 
-### FlowerBud
+### FlowerBud: An app to help you care for your plants
 Project desc.   
 [Learn more →](projects/flowerbud.html)
 

@@ -5,7 +5,11 @@
 <br>
 
 ### Project Description
-Project desc.
+For this project, I created a bionic hand that can be controlled wirelessly using a glove. The hand contains fingers that can be pulled downwards using nylon string connected to separate motors. Once released by the motors, the finger is able to spring back into position due to a thick elastic string also being attached inside them. 
+
+The Arduino Uno controlling the hand would be able to communicate with an Arduino Nano controlling the glove worn by the user through Bluetooth. Flex sensors on each of the glove's fingers are able to detect the position of the user's fingers and tell the motors on the bionic hand to turn accordingly, causing the robot fingers to bend as well. 
+
+I was inspired to do this project because of an interest in prosthetics; however, this device has the potential to be used in a variety of ways - imagine having the ability to be in two places at once!
 
 <br>
 

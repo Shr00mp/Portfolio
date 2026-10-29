@@ -5,7 +5,10 @@
 <br>
 
 ### Project Description
-Project desc.
+I aimed to create a website where the user is able to choose a song and get recommendations based on other songs with similar audio features. This is done through a cosine similarity algorithm built from scratch. 
+
+The user will also be able to do some data analysis by generating different plots for different music features that they are able to select. These plots include those generated using regression algorithms built from scratch. 
+
 
 <br>
 
