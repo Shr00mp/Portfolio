@@ -1,7 +1,11 @@
 # Neural Networks for Brain Tumour Segmentation with Domain Adaptation
 
+<br>
+
 ### Project Description
 Project desc.
+
+<br>
 
 ### Project Report
 To learn more about this project, check out my report below.
@@ -15,8 +19,11 @@ To learn more about this project, check out my report below.
 
 [Open the report in a new tab](../Senior-Scholarship\senior-scholarship-project-report.pdf)
 
+<br>
+
 ### Project Presentation
-I ended up submitting this project for the Senior Scholarship competition at my school and won Highly Commended! This meant I got to present my project at a Joint Symposium with the boys' school (and have a fancy dinner with my teachers). 
+I ended up submitting this project for the Senior Scholarship competition at my school and won Highly Commended! 🎉🎉 
+This meant I got to present my project at a Joint Symposium with the boys' school (and have a fancy dinner with my teachers). 
 You can check out my PPT for this event below: 
 
 <iframe
