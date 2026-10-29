@@ -1,19 +1,17 @@
-## Welcome to my portfolio!
+# Welcome to my portfolio!
 
 ## About Me
 Hi! I'm Sharon, a senior at St Paul's Girls' School. I'm a huge Computer Science nerd with special interests in developing safe AI systems for fields like healthcare. This portfolio is a showcase of some of my favourite projects I have done over the years. 
 
 ## Projects
 
-<div class="project-grid">
+---
 
-  <a class="project-card" href="{{ '/projects/brain-tumour.html' | relative_url }}">
-    <h3>Neural Networks for Brain Tumour Segmentation with Domain Adaptation</h3>
-    <p>tbc</p>
-    <span class="project-link">Learn more →</span>
-  </a>
+### [Neural Networks for Brain Tumour Segmentation](projects/brain-tumour.html)
 
-</div>
+Project desc.
+
+`Research` `Python` `PyTorch`
 
 
 
