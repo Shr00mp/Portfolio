@@ -7,12 +7,51 @@ Hi! I'm Sharon, a senior at St Paul's Girls' School. I'm a huge Computer Science
 
 ---
 
-### [Neural Networks for Brain Tumour Segmentation](projects/brain-tumour.html)
-
+### Neural Networks for Brain Tumour Segmentation with Domain Adaptation
 Project desc.
+[Learn more →](projects/senior_scholarship.html)
 
-`Research` `Python` `PyTorch`
+---
 
+### Machine Learning Models to detect Parkinson's Disease from Voice Reconrdings
+Project desc.
+`This project is cannot currently be made publicly available.`
+
+---
+
+### Bionic Hand
+Project desc.
+[Learn more →](projects/bionic_hand.html)
+
+---
+
+### Uplift
+Project desc. 
+[Learn more →](projects/technovation.html)
+
+---
+
+### Morpho 
+Project desc. 
+[Learn more →](projects/teentech.html)
+
+---
+
+### Music Exploration and Recommendation Website
+Project desc. 
+[Learn more →](projects/music_recommendation.html)
+
+---
+
+### FlowerBud
+Project desc. 
+[Learn more →](projects/flowerbud.html)
+
+---
+
+### Prosthetics and Haptic Feedback Article
+Project desc. 
+[Learn more →](projects/prosthetics_article.html)
 
 
 ### Testing Video
