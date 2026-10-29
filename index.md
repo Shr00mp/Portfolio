@@ -14,7 +14,7 @@ Welcome to my portfolio!
   src="Senior-Scholarship/senior-scholarship-project-report.pdf"
   width="100%"
   height="600"
-  title="Brain tumour research report">
+  title="Senior scholarship project report">
 </iframe>
 
 [Open the report in a new tab](Senior-Scholarship/senior-scholarship-project-report.pdf)
