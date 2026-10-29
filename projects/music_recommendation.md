@@ -10,9 +10,11 @@ Project desc.
 <br>
 
 ### Music Recommendation Demo
-The user can search for a song and get a ranked recommendation of 6 tracks. I used the cosine similarity algorithm for this. I was reasonably satisfied with the results, but I would have liked access to a larger dataset of songs.
+The user can search for a song and get a ranked recommendation of 6 tracks. I used the cosine similarity algorithm for this.
+A demonstration of this feature is shown below. Actually, this recommendation in particular introduced me to Björk, who is now one of my favourite artists!
 
 <img src="../Music-Recommendation-Site\music_recommendation_demo.png" width="100%" alt="Music recommendation demo img">
+<p><em>Music recommendation demo</em></p>
 
 <br>
 
@@ -43,3 +45,15 @@ Besides getting recommendations, the user has the option to do some music explor
   </tr>
 </table>
 
+<br>
+
+### Flow Charts
+I also created a couple of system flow charts, which you can find below. 
+
+<img src="../Music-Recommendation-Site/django_architecture_flow_chart.png" width="100%" alt="Django flow chart">
+<p><em>Django architecture flow chart</em></p>
+
+<img src="../Music-Recommendation-Site/website_flow_chart.png" width="100%" alt="Website flow chart">
+<p><em>Website flow chart</em></p>
+
+<br>
