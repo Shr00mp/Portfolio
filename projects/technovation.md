@@ -12,7 +12,7 @@ Project desc.
 ### App Demo
 Watch a technical demonstration of our app below. The video also contains some information about our user testing process. 
 
-<video controls width="70%">
+<video controls width="100%">
   <source src="../Technovation\technovation_demo.mp4">
   Sadly your browser does not support embedded videos.
 </video>
