@@ -42,8 +42,7 @@ Sadly this project cannot currently be made public. Stay tuned for when it does!
 
 <br>
 
-### Morpho: Colour-changing wallpaper
-Project desc.  
+### Morpho: Colour-changing wallpaper  
 [Learn more →](projects/teentech.html)
 
 <br>
@@ -52,8 +51,7 @@ Project desc.
 
 <br>
 
-### Uplift: An app to help those with Parkinson's Disease
-Project desc.  
+### Uplift: An app to help those with Parkinson's Disease 
 [Learn more →](projects/technovation.html)
 
 <br>
@@ -62,8 +60,7 @@ Project desc.
 
 <br>
 
-### Music Exploration and Recommendation Website
-Project desc.  
+### Music Exploration and Recommendation Website 
 [Learn more →](projects/music_recommendation.html)
 
 <br>
@@ -73,7 +70,6 @@ Project desc.
 <br>
 
 ### FlowerBud: An app to help you care for your plants
-Project desc.   
 [Learn more →](projects/flowerbud.html)
 
 <br>
@@ -82,8 +78,7 @@ Project desc.
 
 <br>
 
-### Prosthetics and Haptic Feedback Article
-Project desc.   
+### Prosthetics and Haptic Feedback Article   
 [Learn more →](projects/prosthetics_article.html)
 
 <br>
