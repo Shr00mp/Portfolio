@@ -1,72 +1,96 @@
 # Welcome to my portfolio!
 
+<br>
+
 ## About Me
-Hi! I'm Sharon, a senior at St Paul's Girls' School. I'm a huge Computer Science nerd with special interests in developing safe AI systems for fields like healthcare. This portfolio is a showcase of some of my favourite projects I have done over the years. 
+Hi! I'm Sharon, a senior at St Paul's Girls' School. I'm a huge Computer Science nerd with special interests in developing safe AI systems for fields like healthcare. This portfolio is a showcase of some of my favourite projects I have done over the years. Enjoy looking around! 🤖😄
+
+<br>
 
 ## Projects
 
+<br>
+
 ---
+
+<br>
 
 ### Neural Networks for Brain Tumour Segmentation with Domain Adaptation
 Project desc.
 [Learn more →](projects/senior_scholarship.html)
 
+<br>
+
 ---
+
+<br>
 
 ### Machine Learning Models to detect Parkinson's Disease from Voice Reconrdings
 Project desc.
 `This project is cannot currently be made publicly available.`
 
+<br>
+
 ---
+
+<br>
 
 ### Bionic Hand
 Project desc.
 [Learn more →](projects/bionic_hand.html)
 
+<br>
+
 ---
+
+<br>
 
 ### Uplift
 Project desc. 
 [Learn more →](projects/technovation.html)
 
+<br>
+
 ---
+
+<br>
 
 ### Morpho 
 Project desc. 
 [Learn more →](projects/teentech.html)
 
+<br>
+
 ---
+
+<br>
 
 ### Music Exploration and Recommendation Website
 Project desc. 
 [Learn more →](projects/music_recommendation.html)
 
+<br>
+
 ---
+
+<br>
 
 ### FlowerBud
 Project desc. 
 [Learn more →](projects/flowerbud.html)
 
+<br>
+
 ---
+
+<br>
 
 ### Prosthetics and Haptic Feedback Article
 Project desc. 
 [Learn more →](projects/prosthetics_article.html)
 
+<br>
 
-### Testing Video
-<video controls width="100%">
-  <source src="Bionic-Hand/final_prototype_demo.mp4" type="video/mp4">
-  Your browser does not support embedded video.
-</video>
-[Open video in a new tab](Bionic-Hand/final_prototype_demo.mp4)
+---
 
-### Testing PDF 
-<iframe
-  src="Senior-Scholarship/senior-scholarship-project-report.pdf"
-  width="100%"
-  height="600"
-  title="Senior scholarship project report">
-</iframe>
-
-[Open the report in a new tab](Senior-Scholarship/senior-scholarship-project-report.pdf)
+<br>
