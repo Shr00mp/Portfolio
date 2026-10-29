@@ -53,6 +53,8 @@ I also created a couple of system flow charts, which you can find below.
 <img src="../Music-Recommendation-Site/django_architecture_flow_chart.png" width="100%" alt="Django flow chart">
 <p><em>Django architecture flow chart</em></p>
 
+<br>
+
 <img src="../Music-Recommendation-Site/website_flow_chart.png" width="100%" alt="Website flow chart">
 <p><em>Website flow chart</em></p>
 

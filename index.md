@@ -36,19 +36,9 @@ Sadly this project cannot currently be made public. Stay tuned for when it does!
 
 <br>
 
-### Bionic Hand
+### Remotely-Controllable Bionic Hand
 Project desc.  
 [Learn more →](projects/bionic_hand.html)
-
-<br>
-
----
-
-<br>
-
-### Uplift
-Project desc.  
-[Learn more →](projects/technovation.html)
 
 <br>
 
@@ -59,6 +49,16 @@ Project desc.
 ### Morpho 
 Project desc.  
 [Learn more →](projects/teentech.html)
+
+<br>
+
+---
+
+<br>
+
+### UpLift
+Project desc.  
+[Learn more →](projects/technovation.html)
 
 <br>
 
