@@ -97,3 +97,16 @@ Here are some photos from my Fusion 360 design process.
 <p><em>Motor wall</em></p>
 
 <br>
+
+### Workshop images
+And finally, here are some bonus images of me in the workshop!
+
+<img src="../Bionic-Hand\workshop_image.jpg" width="100%">
+<p><em>Drilling finger joints</em></p>
+
+<br>
+
+<img src="../Bionic-Hand\pillar_drill.png" width="100%">
+<p><em>Pillar drill</em></p>
+
+<br>
