@@ -16,7 +16,7 @@ Hi! I'm Sharon, a senior at St Paul's Girls' School. I'm a huge Computer Science
 <br>
 
 ### Neural Networks for Brain Tumour Segmentation with Domain Adaptation
-Project desc.
+Project desc.  
 [Learn more →](projects/senior_scholarship.html)
 
 <br>
@@ -26,7 +26,7 @@ Project desc.
 <br>
 
 ### Machine Learning Models to detect Parkinson's Disease from Voice Reconrdings
-Project desc.
+Project desc.  
 
 Sadly this project cannot currently be made public. Stay tuned for when it does! 
 
@@ -37,7 +37,7 @@ Sadly this project cannot currently be made public. Stay tuned for when it does!
 <br>
 
 ### Bionic Hand
-Project desc.
+Project desc.  
 [Learn more →](projects/bionic_hand.html)
 
 <br>
@@ -47,7 +47,7 @@ Project desc.
 <br>
 
 ### Uplift
-Project desc. 
+Project desc.  
 [Learn more →](projects/technovation.html)
 
 <br>
@@ -57,7 +57,7 @@ Project desc.
 <br>
 
 ### Morpho 
-Project desc. 
+Project desc.  
 [Learn more →](projects/teentech.html)
 
 <br>
@@ -67,7 +67,7 @@ Project desc.
 <br>
 
 ### Music Exploration and Recommendation Website
-Project desc. 
+Project desc.  
 [Learn more →](projects/music_recommendation.html)
 
 <br>
@@ -77,7 +77,7 @@ Project desc.
 <br>
 
 ### FlowerBud
-Project desc. 
+Project desc.   
 [Learn more →](projects/flowerbud.html)
 
 <br>
@@ -87,7 +87,7 @@ Project desc.
 <br>
 
 ### Prosthetics and Haptic Feedback Article
-Project desc. 
+Project desc.   
 [Learn more →](projects/prosthetics_article.html)
 
 <br>

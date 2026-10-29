@@ -19,6 +19,6 @@ To learn more about the project, check out the PPT of our group presentation bel
   title="FlowerBud PPT">
 </iframe>
 
-[Open the report in a new tab](../FlowerBud-Plant-App/app_presentation.pdf)
+[Open the PPT in a new tab](../FlowerBud-Plant-App/app_presentation.pdf)
 
 <br>
