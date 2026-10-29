@@ -27,7 +27,8 @@ Project desc.
 
 ### Machine Learning Models to detect Parkinson's Disease from Voice Reconrdings
 Project desc.
-`This project is cannot currently be made publicly available.`
+
+Sadly this project cannot currently be made public. Stay tuned for when it does! 
 
 <br>
 
