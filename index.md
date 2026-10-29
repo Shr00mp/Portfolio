@@ -7,13 +7,14 @@ Hi! I'm Sharon, a senior at St Paul's Girls' School. I'm a huge Computer Science
 
 <div class="project-grid">
 
-  <a class="project-card" href="{{ '/projects/brain-tumour.md' | relative_url }}">
+  <a class="project-card" href="{{ '/projects/brain-tumour.html' | relative_url }}">
     <h3>Neural Networks for Brain Tumour Segmentation with Domain Adaptation</h3>
-    <p>tbc project description</p>
-    <span class="project-link">Learn more→</span>
+    <p>tbc</p>
+    <span class="project-link">Learn more →</span>
   </a>
 
 </div>
+
 
 
 ### Testing Video
