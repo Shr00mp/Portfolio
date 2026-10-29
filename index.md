@@ -3,7 +3,7 @@
 <br>
 
 ## About Me
-Hi! I'm Sharon, a senior at St Paul's Girls' School. I'm a huge Computer Science nerd with special interests in developing safe AI systems for fields like healthcare. This portfolio is a showcase of some of my favourite projects I have done over the years. Enjoy looking around! 🤖😄
+Hi! I'm Sharon (Zhixuan), a senior at St Paul's Girls' School. I'm a huge Computer Science nerd with special interests in developing safe AI systems for fields like healthcare. This portfolio is a showcase of some of my favourite projects I have done over the years. Enjoy looking around! 🤖😄
 
 <br>
 
