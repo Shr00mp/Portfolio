@@ -91,18 +91,18 @@ Another one of my favourite activities.
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../Life/hike2" width="100%">
+      <img src="../Life/hike2.jpg" width="100%">
     </td>
     <td align="center" width="50%">
-      <img src="../Life/hike1" width="100%">
+      <img src="../Life/hike1.jpg" width="100%">
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="../Life/hike5" width="100%">
+      <img src="../Life/hike5.jpg" width="100%">
     </td>
     <td align="center" width="50%">
-      <img src="../Life/hike4" width="100%">
+      <img src="../Life/hike4.jpg" width="100%">
     </td>
   </tr>
 </table>
