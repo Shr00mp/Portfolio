@@ -82,35 +82,45 @@ Here are some photos from my designing process.
 ### Fusion 360 (CAD)
 Here are some photos from my Fusion 360 design process. 
 
-<img src="../Bionic-Hand\finger_joint_fusion_designs.png" width="100%">
-<p><em>Finger joints</em></p>
-
-<br>
-
-<img src="../Bionic-Hand\palm_fusion_design.png" width="100%">
-<p><em>Palm</em></p>
-
-<br>
-
-<img src="../Bionic-Hand\palm_holes_fusion_design.png" width="100%">
-<p><em>Palm holes</em></p>
-
-<br>
-
-<img src="../Bionic-Hand\motor_wall_fusion_design.png" width="100%">
-<p><em>Motor wall</em></p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="../Bionic-Hand\finger_joint_fusion_designs.png" width="100%">
+      <p><em>Finger joints</em></p>
+    </td>
+    <td align="center" width="50%">
+      <img src="../Bionic-Hand\palm_fusion_design.png" width="100%">
+      <p><em>Palm</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="../Bionic-Hand\palm_holes_fusion_design.png" width="100%">
+      <p><em>Palm holes</em></p>
+    </td>
+    <td align="center" width="50%">
+      <img src="../Bionic-Hand\motor_wall_fusion_design.png" width="100%">
+      <p><em>Motor wall</em></p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ### Workshop images
 And finally, here are some bonus images of me in the workshop!
 
-<img src="../Bionic-Hand\workshop_image.jpg" width="100%">
-<p><em>Drilling finger joints</em></p>
-
-<br>
-
-<img src="../Bionic-Hand\pillar_drill.png" width="100%">
-<p><em>Pillar drill</em></p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="../Bionic-Hand\workshop_image.jpg" width="100%">
+      <p><em>Drilling finger joints</em></p>
+    </td>
+    <td align="center" width="50%">
+      <img src="../Bionic-Hand\pillar_drill.png" width="100%">
+      <p><em>Pillar drill</em></p>
+    </td>
+  </tr>
+</table>
 
 <br>
