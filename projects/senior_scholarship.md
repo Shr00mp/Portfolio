@@ -26,7 +26,7 @@ To learn more about this project, check out my report below.
 <iframe
   src="../Senior-Scholarship/senior-scholarship-project-report.pdf"
   width="100%"
-  height="600"
+  height="800"
   title="Senior scholarship project report">
 </iframe>
 
@@ -42,7 +42,7 @@ You can check out my PPT for this event below:
 <iframe
   src="../Senior-Scholarship/senior-scholarship-project-presentation.pdf"
   width="100%"
-  height="800"
+  height="600"
   title="Senior scholarship project report">
 </iframe>
 
