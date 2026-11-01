@@ -53,15 +53,6 @@ Sadly this project cannot currently be made public. Stay tuned for when it does!
 
 <br>
 
-### Uplift: An app to help those with Parkinson's Disease 
-[Learn more →](projects/technovation.html)
-
-<br>
-
----
-
-<br>
-
 ### Music Exploration and Recommendation Website 
 [Learn more →](projects/music_recommendation.html)
 
@@ -82,6 +73,15 @@ Sadly this project cannot currently be made public. Stay tuned for when it does!
 
 ### Prosthetics and Haptic Feedback Article   
 [Learn more →](projects/prosthetics_article.html)
+
+<br>
+
+---
+
+<br>
+
+### Falcon Racing: F1 in Schools   
+[Learn more →](projects/f1.md)
 
 <br>
 
