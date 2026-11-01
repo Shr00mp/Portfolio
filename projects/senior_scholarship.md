@@ -42,7 +42,7 @@ You can check out my PPT for this event below:
 <iframe
   src="../Senior-Scholarship/senior-scholarship-project-presentation.pdf"
   width="100%"
-  height="600"
+  height="800"
   title="Senior scholarship project report">
 </iframe>
 

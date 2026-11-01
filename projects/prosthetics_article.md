@@ -15,7 +15,7 @@ Read the article below!
 <iframe
   src="../Prosthetics-Haptic-Feedback-Article\prosthetics_haptic_feedback_article.pdf"
   width="100%"
-  height="800"
+  height="1000"
   title="Prosthetics and Haptic Feedback Article">
 </iframe>
 

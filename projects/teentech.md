@@ -15,7 +15,7 @@ To learn more about this project, check out my report below.
 <iframe
   src="../TeenTech/morpho_report.pdf"
   width="100%"
-  height="600"
+  height="800"
   title="Morpho report">
 </iframe>
 
