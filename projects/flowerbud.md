@@ -22,3 +22,10 @@ To learn more about the project, check out the PPT of our group presentation bel
 [Open the PPT in a new tab](../FlowerBud-Plant-App/app_presentation.pdf)
 
 <br>
+
+### Source Code
+You can access the source code for the app in the repo below.
+
+[FlowerBud App](https://github.com/Shr00mp/FlowerBud-App)
+
+<br>

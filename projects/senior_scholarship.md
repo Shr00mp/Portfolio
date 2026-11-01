@@ -47,3 +47,12 @@ You can check out my PPT for this event below:
 </iframe>
 
 [Open the report in a new tab](../Senior-Scholarship\senior-scholarship-project-presentation.pdf)
+
+<br>
+
+### Source Code
+You can access the source code for the project in the repo below.
+
+[Brain Tumour Segmentation](https://github.com/Shr00mp/Brain-Tumour-Seg-NN-TTT)
+
+<br>

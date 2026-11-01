@@ -1,6 +1,6 @@
 [← Back to Home page](../index.md)
 
-# Rusic Exploration and Recommendation Website
+# Music Exploration and Recommendation Website
 
 <br>
 
@@ -60,5 +60,12 @@ I also created a couple of system flow charts, which you can find below.
 
 <img src="../Music-Recommendation-Site/website_flow_chart.png" width="100%" alt="Website flow chart">
 <p><em>Website flow chart</em></p>
+
+<br>
+
+### Source Code
+You can access the source code for the website in the repo below.
+
+[Music Exploration and Recommendation Website](https://github.com/Shr00mp/Music-Recommendation-Analysis)
 
 <br>
