@@ -5,11 +5,13 @@
 <br>
 
 ### Project Description
-For this project, I created a bionic hand that can be controlled wirelessly using a glove. The hand contains fingers that can be pulled downwards using nylon string connected to separate motors. Once released by the motors, the finger is able to spring back into position due to a thick elastic string also being attached inside them. 
+As someone who has always been interested in prosthetics, I wanted to create a bionic hand. My plan was to have allow it to be controlled wirelessly using a glove worn by the user. 
 
-The Arduino Uno controlling the hand would be able to communicate with an Arduino Nano controlling the glove worn by the user through Bluetooth. Flex sensors on each of the glove's fingers are able to detect the position of the user's fingers and tell the motors on the bionic hand to turn accordingly, causing the robot fingers to bend as well. 
+The hand contains fingers that can be pulled downwards using nylon string connected to separate motors. Once released by the motors, the finger springs back into position due to the tension in thick elastic string inside them. I wanted the Arduino circuit controlling the hand to be able to communicate with the Arduino Nano circuit controlling the glove through Bluetooth modules. Flex sensors on each of the glove's fingers would be able to detect if the user's fingers are bent and tell the motors in the bionic hand to turn accordingly.
 
-I was inspired to do this project because of an interest in prosthetics; however, this device has the potential to be used in a variety of ways - imagine having the ability to be in two places at once!
+I learnt a lot about CAD and 3D-printing during this project. I also got a lot of experience in the workshop working with various drilling and sawing tools to fix issues with my prints. I also learnt how to code in Arduino C and practiced my circuit-building skills. 
+
+One of my favourite parts of this project was having to be super resourceful in fixing issues with my prints. At one point, the holes that ran through the 3D-printed palm were too small for the string to fit through. I tried using various drills, but it was impossible to drill in the exact direction of the hole. So I ended up trying to erode the hole using a clothes hanger and stringing the elastic through with a needle (inspired by my crocheting).
 
 <br>
 

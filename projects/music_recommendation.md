@@ -5,9 +5,9 @@
 <br>
 
 ### Project Description
-I aimed to create a website where the user is able to choose a song and get recommendations based on other songs with similar audio features. This is done through a cosine similarity algorithm built from scratch. 
+I've never really been satisfied with Spotify's music recommendations. And as a someone who listens to at least 3 hours of music every day, I'm always on the lookout for new artists. So I created my own music recommendation website. I was also really interested in the correlations between different musical features and how they related to mood. Hence, I added a music exploration tool to the website as well.
 
-The user will also be able to do some data analysis by generating different plots for different music features that they are able to select. These plots include those generated using regression algorithms built from scratch. 
+This was one of my first projects with machine learning and it taught me the basics of linear regression and decision tree algorithms. It was also my first time working with Django (which I must say I do not enjoy as much as React). I also did get some new music recommendations! As one of the pictures below shows, it introduced me to Björk, who is now one of my favourite artists.
 
 
 <br>

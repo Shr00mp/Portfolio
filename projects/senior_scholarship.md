@@ -16,15 +16,12 @@ Furthermore, when I was interviewing a doctor for my project, he asked how my mo
 would adapt to hospitals with different scanner types. I did not have any measures in 
 place to tackle this, and I was unsettled by how dangerous that was. 
  
-Given I had limited time with my CS coursework, the senior scholarship was a great 
-opportunity for me to address my dissatisfaction and take on these two problems. I 
-contacted a professor at the Computer Intelligence Lab at Rowan University who agreed 
-to mentor me and provide computing resources for this project. 
+I completed this project as part of an internship at the Computer Intelligence Lab at Rowan University. A special thanks to Dr John Jiang for making this all possible!
 
 <br>
 
 ### Project Report
-To learn more about this project, check out my report below.
+To learn more about this project, check out my report below. 
 
 <iframe
   src="../Senior-Scholarship/senior-scholarship-project-report.pdf"
